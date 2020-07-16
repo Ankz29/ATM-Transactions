@@ -1,0 +1,7 @@
+F:\C# Programs\ATMTransactions\obj\Debug\ATMTransactions.csprojAssemblyReference.cache
+F:\C# Programs\ATMTransactions\obj\Debug\ATMTransactions.csproj.CoreCompileInputs.cache
+F:\C# Programs\ATMTransactions\bin\Debug\ATMTransactions.exe.config
+F:\C# Programs\ATMTransactions\bin\Debug\ATMTransactions.exe
+F:\C# Programs\ATMTransactions\bin\Debug\ATMTransactions.pdb
+F:\C# Programs\ATMTransactions\obj\Debug\ATMTransactions.exe
+F:\C# Programs\ATMTransactions\obj\Debug\ATMTransactions.pdb
